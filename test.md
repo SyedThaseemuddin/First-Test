@@ -35,10 +35,11 @@
 
 ## Hardware Used
 -----
-> SAM D21 Curiosity Nano Evaluation Kit ( https://www.microchip.com/Developmenttools/ProductDetails/DM320119 )   
-> Curiosity Nano Base for click boards ( https://www.microchip.com/Developmenttools/ProductDetails/AC164162 )
-> Heart Rate 3 click ( https://www.mikroe.com/heart-rate-3-click )
-> EINK CLICK BUNDLE ( https://www.mikroe.com/eink-click )
+#1. SAM D21 Curiosity Nano Evaluation Kit ( https://www.microchip.com/Developmenttools/ProductDetails/DM320119 )   
+#2. Curiosity Nano Base for click boards ( https://www.microchip.com/Developmenttools/ProductDetails/AC164162 )
+#3. Heart Rate 3 click ( https://www.mikroe.com/heart-rate-3-click )
+#4. EINK CLICK BUNDLE ( https://www.mikroe.com/eink-click )
+
 
 
 >The PIC18F47Q10 GPIO pin RE0, connected to LED0 on the Curiosity nano - Q10 board, is setup as an output to control the LED.
