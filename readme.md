@@ -4,8 +4,7 @@
 # Fitness Tracker Application Demo on SAM D21 Curiosity Nano and Nano Base for Click boards using MPLAB Harmony v3
 
 
-[<img src="https://user-images.githubusercontent.com/15937399/75970403-47ee8080-5ef6-11ea-9013-bb460902a8c9.png">](https://www.microchip.com/design-centers/32-bit-mpus)[newtab]
-
+[<img src="https://user-images.githubusercontent.com/15937399/75970403-47ee8080-5ef6-11ea-9013-bb460902a8c9.png">](https://www.microchip.com/design-centers/32-bit-mpus){:target="_blank"}
 
 
 ## Description
